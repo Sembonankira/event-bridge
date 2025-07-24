@@ -1,6 +1,6 @@
 {
   "homepage": "https://sembonankira.github.io/event-bridge"
-  "name": "event-management",
+  "name": "event-bridge",
   "private": true,
   "version": "0.0.0",
   "type": "module",
