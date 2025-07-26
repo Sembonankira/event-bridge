@@ -19,7 +19,7 @@ const Header = () => {
           onClick={() => scrollToSection('Home')}
         >
           <img src={logo} alt="Logo" className="h-8 w-8 object-contain" />
-          <span className="text-lg font-bold text-blue-600">Event Bridge</span>
+          <span className="text-lg font-bold text-blue-600">Event Bridge 250</span>
         </div>
 
         {/* Navigation Menu */}
