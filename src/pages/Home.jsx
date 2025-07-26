@@ -5,7 +5,7 @@ const Home = () => {
     >
       <div className="absolute inset-0 bg-black/60 z-0" />
       <div className="relative z-10 max-w-4xl mx-auto text-center">
-        <h2 className="text-4xl text-blue font-bold mb-4">Event Bridge</h2>
+        <h2 className="text-4xl text-blue font-bold mb-4">Event Bridge 250</h2>
         <p className="text-lg leading-relaxed">
           Event Bridge is for Event Management and IT Support Services. 
         </p>
